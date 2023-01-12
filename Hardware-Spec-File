@@ -1,1 +1,8 @@
 HI This is Belongs to Hardware Dept
+requied hardware
+  1. 5 SYstems (physical/vms/containers/ec2)
+  2. 10TB Storage
+  3. 128 GB RAM
+  4. Atleast 2 NIC Cards
+  5. LInux Redhat OS 9.2
+  
